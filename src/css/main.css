@@ -25,7 +25,6 @@ body{
   padding:24px;
 }
 
-/* colored card */
 .card{
   background:var(--card-bg);
   color:var(--card-fg);
